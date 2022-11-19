@@ -1,4 +1,4 @@
 # esko
 ESKO v 2.0
 .
-A Tools for help for you :)
+A Tools for help you :)
