@@ -2,7 +2,7 @@
 #di buat 17 agustus 2022.
 
 print ("乇丂匚ㄖ v1.0")
-print ("\n Alat Untuk Memecahkan Masalah Matematika")
+print ("\n A Tools for Help you :(")
 print("\n")
 print("17 Agustus 2022")
 nama_yu = input("Siapa Nama Anda: ")
