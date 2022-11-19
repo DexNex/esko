@@ -1,4 +1,4 @@
 # esko
-ESKO v 1.
+ESKO v 2.0
 .
-Alat untuk memecahkan masalah matematika
+A Tools for help for you :)
